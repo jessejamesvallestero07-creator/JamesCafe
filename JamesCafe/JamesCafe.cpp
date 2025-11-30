@@ -1,4 +1,4 @@
-﻿// main.cpp
+// main.cpp
 // James' Café - Chill Coffee Shop CLI Ordering System
 // Portable fixes for VS Code (g++/clang) and Visual Studio (MSVC)
 
